@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform_ThiCK_Nhom4", "Winform_ThiCK_Nhom4\Winform_ThiCK_Nhom4.csproj", "{6A26EBFD-446F-4FAB-A6B4-DF7C243BA8ED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{FDB794D8-D90C-40DC-917B-070B08B09130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A26EBFD-446F-4FAB-A6B4-DF7C243BA8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A26EBFD-446F-4FAB-A6B4-DF7C243BA8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A26EBFD-446F-4FAB-A6B4-DF7C243BA8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A26EBFD-446F-4FAB-A6B4-DF7C243BA8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB794D8-D90C-40DC-917B-070B08B09130}.Debug|Any CPU.ActiveCfg = Debug
+		{FDB794D8-D90C-40DC-917B-070B08B09130}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC37262-9A55-47A2-B856-12C03FA12C55}
+	EndGlobalSection
+EndGlobal
